@@ -331,7 +331,7 @@ body {
     letter-spacing: 0.1px;
   }
   .snippets-area {
-    margin-top: 127px;
+    margin-top: 125px;
   }
   .snippets-top-area {
     padding: 0 360px;
@@ -375,7 +375,7 @@ body {
     padding: 0 250px;
   }
   .access-area img {
-    margin-top: 100px;
+    margin-top: 96px;
   }
   .workflow-area {
     margin-top: 68px;
@@ -424,7 +424,9 @@ body {
     line-height: 2rem;
     margin-bottom: 48px;
   }
-  
+  .clipboard-area .btn {
+    padding-bottom: 124px;
+  }
   .footer-area {
     width: 1440px;
     margin-top: 0;
