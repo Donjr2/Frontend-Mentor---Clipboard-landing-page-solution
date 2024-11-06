@@ -394,13 +394,13 @@ body {
   .workflow-bottom-area {
     justify-content: center;
     gap: 17px;
-    margin-top: 74px;
+    margin-top: 75px;
   }
   .workflow-group {
     flex-basis: 30%;
   }
   .workflow-group img:not(:first-child) {
-    margin-top: 4px;
+    margin-top: 6px;
   }
   .workflow-group h3 {
     font-size: 1.4375rem;
@@ -413,7 +413,7 @@ body {
     letter-spacing: 0.14px;
   }
   .brand-area {
-    margin-top: 91px;
+    margin-top: 93px;
   }
   .brand-area img {
     width: auto;
