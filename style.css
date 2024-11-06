@@ -61,7 +61,7 @@ body {
 }
 
 .logo-area {
-  margin-top: 94px;
+  margin-top: 96px;
 }
 .logo-area h1 {
   font-size: 2rem;
@@ -125,7 +125,7 @@ body {
   font-size: 1.5rem;
 }
 .snippets-right-group p {
-  margin: 8px 0 60px;
+  margin: 8px 0 58px;
 }
 .access-area {
   margin-top: 186px;
@@ -325,7 +325,7 @@ body {
   }
   .logo-area h1 {
     font-size: 2.90625rem;
-    margin-top: 53px;
+    margin-top: 51px;
     letter-spacing: -1px;
   }
   .logo-area p {
@@ -394,10 +394,13 @@ body {
   .workflow-bottom-area {
     justify-content: center;
     gap: 17px;
-    margin-top: 78px;
+    margin-top: 74px;
   }
   .workflow-group {
     flex-basis: 30%;
+  }
+  .workflow-group img:not(:first-child) {
+    margin-top: 4px;
   }
   .workflow-group h3 {
     font-size: 1.4375rem;
